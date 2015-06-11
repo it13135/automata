@@ -2,7 +2,7 @@ There are two folders:
 ------------------------------------------------------------
 # 2014: first version. 
 This code was written for the lesson "Computation theory".
-
+[Version 2014 exe file](https://github.com/it13135/automata/blob/master/code/2014/automata/bin/Debug/automata.exe?raw=true)
 Features: 
 
   1. Automata descriptions are in simple text files.
@@ -15,6 +15,7 @@ Features:
 
   ![Automata](../img/DFA.jpg) ![Automata](../img/DFAMin.jpg)
 # 2015: second version. 
+[Version 2015 exe file](https://github.com/it13135/automata/blob/master/code/2015/automata/bin/Debug/automata.exe?raw=true)
 
 Refactoring the design of existing code.
 
