@@ -1,8 +1,7 @@
-# automata
-![Automata](img/home.jpg)
 # Assignment in lesson "Software Engineering" - 2015
-# University of Macedonia
-# Thessaloniki, Greece
+ University of Macedonia
+ Thessaloniki, Greece
+![Automata](img/home.jpg)
 The subject of this assignment is to create a project in Visual Studio able to:
 --------------------------------------------------------------------------
 1. read a xml file with the description of an automaton
