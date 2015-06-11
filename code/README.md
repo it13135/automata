@@ -15,6 +15,9 @@ Features:
 
   ![Automata](../img/DFA.jpg) ![Automata](../img/DFAMin.jpg)
 # 2015: second version. 
+
+Refactoring the design of existing code.
+
 This code was written for the lesson "Software Engineering". In this version there is a more object oriented approach.
 
 Features: 
