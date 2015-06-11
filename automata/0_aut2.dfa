@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<automaton>
+  <type>
+    <value>DFA</value>
+  </type>
+  <symbols>
+    <symbol>a</symbol>
+    <symbol>b</symbol>
+  </symbols>
+  <stateNumber>
+    <value>4</value>
+  </stateNumber>
+  <initialState>
+    <value>1</value>
+  </initialState>
+  <finalStates>
+    <finalState>2</finalState>
+    <finalState>3</finalState>
+  </finalStates>
+  <transitions>
+    <transition  stateFrom="1"  symbol="a"  stateTo="1" />
+    <transition  stateFrom="1"  symbol="b"  stateTo="2" />
+    <transition  stateFrom="2"  symbol="a"  stateTo="3" />
+    <transition  stateFrom="2"  symbol="b"  stateTo="2" />
+    <transition  stateFrom="3"  symbol="a"  stateTo="3" />
+    <transition  stateFrom="3"  symbol="b"  stateTo="4" />
+    <transition  stateFrom="4"  symbol="a"  stateTo="2" />
+    <transition  stateFrom="4"  symbol="b"  stateTo="1" />
+  </transitions>
+</automaton>

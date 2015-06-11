@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<automaton>
+  <type>
+    <value>PDA</value>
+  </type>
+  <symbols>
+    <symbol>a</symbol>
+    <symbol>b</symbol>
+  </symbols>
+  <stateNumber>
+    <value>4</value>
+  </stateNumber>
+  <initialState>
+    <value>1</value>
+  </initialState>
+  <finalStates>
+    <finalState>2</finalState>
+    <finalState>3</finalState>
+  </finalStates>
+  <transitions>
+    <transition  stateFrom="1"  symbol="a"  stateTo="1"  stackOut="e"  stackIn="a" />
+  </transitions>
+</automaton>

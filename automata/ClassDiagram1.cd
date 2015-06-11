@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="automata.State">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>SAAAIAAAAICAAEAEAAAECAAQAQAAEAgAAEBCKBIIAQg=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.Transition">
+    <Position X="4.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Transition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.PDATransition">
+    <Position X="4.25" Y="5" Width="2.75" />
+    <InheritanceLine Type="automata.Transition" ManuallyRouted="true">
+      <Path>
+        <Point X="5.125" Y="4.747" />
+        <Point X="5.625" Y="5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PDATransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.NFA">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <InheritanceLine Type="automata.Automaton" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="0.5" Y="2.142" />
+        <Point X="0.189" Y="2.142" />
+        <Point X="0.189" Y="3.654" />
+        <Point X="0.5" Y="3.654" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NFA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.DFA">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <InheritanceLine Type="automata.Automaton" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="0.5" Y="2.142" />
+        <Point X="0.189" Y="2.142" />
+        <Point X="0.189" Y="5.058" />
+        <Point X="0.5" Y="5.058" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DFA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.PDA" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.75" />
+    <InheritanceLine Type="automata.Automaton" FixedFromPoint="true">
+      <Path>
+        <Point X="0.5" Y="2.142" />
+        <Point X="0.189" Y="2.142" />
+        <Point X="0.189" Y="6.096" />
+        <Point X="0.5" Y="6.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.Automaton">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAABBAAgAAAAAAAAAAAEAAAAAAACAABAAABAg=</HashCode>
+      <FileName>Automaton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.PointExtension">
+    <Position X="6.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAEAAAAAAACA=</HashCode>
+      <FileName>PointExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

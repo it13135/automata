@@ -1,0 +1,15 @@
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\bin\Debug\automata.exe.config
+L:\gg\uom\6o\000_Εργασίες\Τεχνολογία\automata\automata\bin\Debug\automata.exe.config
+L:\gg\uom\tasks\automata\automata\bin\Debug\automata.exe.config
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.MainForm.resources
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.managexml.resources
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.Properties.Resources.resources
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.csproj.GenerateResource.Cache
+L:\gg\uom\tasks\automata\automata\bin\Debug\automata.exe
+L:\gg\uom\tasks\automata\automata\bin\Debug\automata.pdb
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.exe
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.pdb
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.addXMLValue.resources
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.AddForm.resources
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.addXMLValueTrans.resources
+L:\gg\uom\tasks\automata\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache
