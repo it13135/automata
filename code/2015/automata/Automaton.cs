@@ -173,6 +173,8 @@ namespace automata
                     gBmp.DrawString(selfString, myFont, new SolidBrush(Color.Black), 0, 0, sf);
                     gBmp.ResetTransform();
                 }
+
+                //Σχεδίαση των υπολοίπων σμεταβάσεων                 
                 foreach (Transition transition in _state.Transitions.Where(z => z.NextState != _state))
                 {
                     State stateTo = transition.NextState;
@@ -196,29 +198,6 @@ namespace automata
 
                 }
                 gBmp.ResetTransform();
-                //Σχεδίαση των υπολοίπων σμεταβάσεων 
-                /*            foreach (Transition transition in this.transitions.Where(z => z.startState != z.endState))
-                            {
-                                SuperState stateFrom = this.getSuperStateByNo(transition.startState);
-                                SuperState stateTo = this.getSuperStateByNo(transition.endState);
-
-
-                                float rotationAngle = stateFrom.Center.Angle(stateTo.Center);
-
-                                gBmp.TranslateTransform((stateFrom.Center.X + stateTo.Center.X) / 2, (stateFrom.Center.Y + stateTo.Center.Y) / 2);
-                                gBmp.RotateTransform(rotationAngle);
-                                double distance = Math.Sqrt(Math.Pow(stateTo.Center.Y - stateFrom.Center.Y, 2) + Math.Pow(stateTo.Center.X - stateFrom.Center.X, 2));
-                                int tx = (int)(distance / 2) - radious;
-                                gBmp.DrawLine(arrowPen, -tx, 0, tx, 0);
-
-                                gBmp.TranslateTransform(tx - 10, 10);
-                                gBmp.RotateTransform(-rotationAngle);
-                                gBmp.DrawString(transition.readSymbol.ToString(), new Font(FontFamily.GenericSansSerif, 8, FontStyle.Regular), new SolidBrush(Color.Blue), 0, 0, sf);
-                                gBmp.RotateTransform(rotationAngle);
-                                gBmp.TranslateTransform(10 - tx, -10);
-                                gBmp.RotateTransform(-rotationAngle);
-                                gBmp.TranslateTransform(-(stateFrom.Center.X + stateTo.Center.X) / 2, -(stateFrom.Center.Y + stateTo.Center.Y) / 2);
-                            }*/
             }
             return bmp;
         }

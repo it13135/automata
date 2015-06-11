@@ -18,7 +18,6 @@ R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.e
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.pdb
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\bin\Debug\automata.exe
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\bin\Debug\automata.pdb
-R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.AddForm.resources
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.addXMLValue.resources
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.addXMLValueTrans.resources
@@ -26,3 +25,4 @@ R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.M
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.managexml.resources
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.Properties.Resources.resources
 R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.csproj.GenerateResource.Cache
+R:\Users\mimis\Documents\GitHub\automata\code\2015\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache

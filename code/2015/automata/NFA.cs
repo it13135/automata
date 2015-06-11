@@ -35,14 +35,5 @@ namespace automata
             int a = (from b in currentStates where b.isEndState select b).Count();
             return a > 0;
         }
-
-        public DFA toDFA()
-        {
-            List<State> currentState = new List<State>();
-            currentState.Add(this.InitialState);
-            List<State> res = new List<State>();
-            DFA dfa = new DFA(res);
-            return dfa;
-        }
     }
 }

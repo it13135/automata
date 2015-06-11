@@ -12,6 +12,7 @@ namespace automata
         {
             throw new System.NotImplementedException();
         }
+
         public DFA(List<State> _states)
             : base(_states)
         {
