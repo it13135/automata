@@ -13,7 +13,7 @@ Features:
   
   4. Minimize converted DFA
 
-  ![Automata](img/DFA.jpg) ![Automata](img/DFAMin.jpg)
+  ![Automata](../img/DFA.jpg) ![Automata](../img/DFAMin.jpg)
 # 2015: second version. 
 This code was written for the lesson "Software Engineering". In this version there is a more object oriented approach.
 
@@ -25,5 +25,5 @@ Features:
   
   3. Check if a word belongs to the language of the automaton
   
-  ![Automata](img/xmlEditor.jpg)
+  ![Automata](../img/xmlEditor.jpg)
   
