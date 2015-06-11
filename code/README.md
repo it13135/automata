@@ -24,7 +24,7 @@ Features:
 
   1. Automata descriptions are in xml files.
   
-  2. There is an editor for this xml files.
+  2. There is an editor for those xml files.
   
   3. Check if a word belongs to the language of the automaton
   
