@@ -25,5 +25,6 @@ Features:
   
   3. Check if a word belongs to the language of the automaton
   
-  ![Automata](../img/xmlEditor.jpg)
+  ![Automata](../img/xmlEditor.jpg)  ![Automata](../img/XmlSample.jpg)
+  ![Automata](../img/NFADraw.jpg)
   
