@@ -7,7 +7,7 @@ The subject of this task is to create a project in Visual Studio able to:
 2. to create the appropriate object (of type NFA, DFA or PDA)
 3. draw the automaton 
 4. convert an NFA object to an DFA object
-5. check if a word belongs to the automatn's language
+5. check if a word belongs to the automaton language
 --------------------------------------------------------------------------
 To Do
 --------------------------------------------------------------------------
