@@ -1,7 +1,7 @@
 There are two folders:
 ------------------------------------------------------------
 # 2014: first version. 
-This code was written for the lesson "Computation theory"
+This code was written for the lesson "Computation theory".
 Features: 
   Automata descriptions are in simple text files.
 
