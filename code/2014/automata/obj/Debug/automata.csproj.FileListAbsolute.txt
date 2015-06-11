@@ -1,0 +1,69 @@
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\bin\Debug\automata.exe.config
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.Form1.resources
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.Properties.Resources.resources
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.csproj.GenerateResource.Cache
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\bin\Debug\automata.exe
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\bin\Debug\automata.pdb
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.exe
+c:\users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.pdb
+C:\Users\mimis\documents\visual studio 2012\Projects\automata\automata\bin\Debug\test1.nfa
+C:\Users\mimis\documents\visual studio 2012\Projects\automata\automata\bin\Debug\test2.nfa
+C:\Users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.DrawForm.resources
+C:\Users\mimis\documents\visual studio 2012\Projects\automata\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\automata.exe.config
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.exe
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.pdb
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.DrawForm.resources
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.Form1.resources
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.Properties.Resources.resources
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.csproj.GenerateResource.Cache
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test2.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test1.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\automata.exe
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\automata.pdb
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test3.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test4.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test5.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test6.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test7.nfa
+L:\Google Drive\uom\3o\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test1.pda
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\automata.exe.config
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.exe
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.pdb
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test1.pda
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test7.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test6.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test2.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test1.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test3.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test4.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\test5.nfa
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\automata.exe
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\bin\Debug\automata.pdb
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.DrawForm.resources
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.Form1.resources
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.Properties.Resources.resources
+L:\gg\uom\3o\passed\Θεωρία υπολογισμού\Εργασίες\automata\automata\obj\Debug\automata.csproj.GenerateResource.Cache
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\automata.exe.config
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.exe
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.pdb
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test1.pda
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test7.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test6.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test2.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test1.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test3.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test4.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\test5.nfa
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\automata.exe
+L:\gg\uom\6o\000_Εργασίες\automata\automata\bin\Debug\automata.pdb
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.csprojResolveAssemblyReference.cache
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.DrawForm.resources
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.Form1.resources
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.Properties.Resources.resources
+L:\gg\uom\6o\000_Εργασίες\automata\automata\obj\Debug\automata.csproj.GenerateResource.Cache
+R:\Users\mimis\Documents\GitHub\automata\code\2014\automata\bin\Debug\automata.exe.config
+R:\Users\mimis\Documents\GitHub\automata\code\2014\automata\obj\Debug\automata.exe
+R:\Users\mimis\Documents\GitHub\automata\code\2014\automata\obj\Debug\automata.pdb

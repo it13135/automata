@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="automata.DFA">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAACAAAgAEAAAAAAAAAAAAAAJAAEAAAAAAAgA=</HashCode>
+      <FileName>DFA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.FA">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>FA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.NFA">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAGIgAAAAAAAAgAAQAACAAAAAAAAAAgEAAAAAAAAEAA=</HashCode>
+      <FileName>NFA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.Pda">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAAAAQAAAASAAAAAAgAgAAAIAAAAAAABAAAAAg=</HashCode>
+      <FileName>Pda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.SuperState" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAEAgAAAAAAQAAAAAAgAAIAAA=</HashCode>
+      <FileName>SuperState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="automata.PdaSnapshot">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgABAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PdaSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.PdaTransition">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PdaTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.PointExtension">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAABAAAEAAAAAAACA=</HashCode>
+      <FileName>PointExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.State" BaseTypeListCollapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAgAAAEAAAAAAAAAAAAIAAgAAAAAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="automata.Transition">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="automata.TreeNode">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>TreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
