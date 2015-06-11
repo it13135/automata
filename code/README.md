@@ -31,3 +31,10 @@ Features:
   ![Automata](../img/xmlEditor.jpg)  ![Automata](../img/XmlSample.jpg)
   ![Automata](../img/NFADraw.jpg)
   
+ToDo
+
+  1. There is no check if an automaton has the declared in xml file type
+  
+  2. NFA to DFA conversion is not implemented yet in 2015 version
+  
+  3. DFA minimization is not implemented yet in 2015 version

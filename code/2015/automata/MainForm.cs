@@ -30,6 +30,8 @@ namespace automata
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 a = AutomatonFactory.CreateFromFile(ofd.FileName);
+                btnConvert.Enabled = (a is NFA);
+                btnCheck.Enabled = true;
                 Draw(a);
             }
         }
