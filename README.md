@@ -1,8 +1,9 @@
 # automata
-![My image](img/home.jpg)
-# Task in lesson "Software Engineering" - 2015
-
-The subject of this task is to create a project in Visual Studio able to:
+![Automata](img/home.jpg)
+# Assignment in lesson "Software Engineering" - 2015
+# University of Macedonia
+# Thessaloniki, Greece
+The subject of this assignment is to create a project in Visual Studio able to:
 --------------------------------------------------------------------------
 1. read a xml file with the description of an automaton
 2. to create the appropriate object (of type NFA, DFA or PDA)
