@@ -1,4 +1,5 @@
 # automata
+![My image](img/home.jpg)
 # Task in lesson "Software Engineering" - 2015
 
 The subject of this task is to create a project in Visual Studio able to:
@@ -12,4 +13,4 @@ The subject of this task is to create a project in Visual Studio able to:
 To Do
 --------------------------------------------------------------------------
 1. migrate the code to web (php, svg for the graphics)
---------------------------------------------------------------------------
+
